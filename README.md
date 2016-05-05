@@ -1,5 +1,5 @@
 # poe-blog
-Poe &amp; Bukowski's Blog
+Poe &amp; Bukowski's Cool Blog
 
 ##Open Questions
 
